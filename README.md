@@ -86,4 +86,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 **Answer**
 Vague Prompt: What is Jollof rice?
 Improved Response: In simple terms, explain the preparation of a delicious Nigerian Jollof rice that fits an available budget of N3,000.
-The improved prompt is more specific. It is also targeted at some conditions which helps the AI to know the exact response to give.
+The improved prompt is more specific. It is also targeted at some conditions which help the AI to know the exact response to give.
